@@ -1,6 +1,11 @@
-# NYPDKUGroupProjectContributors:
-Alex
-Debbie
-Glenys
-Kari-Ann
+# NYPDKUGroupProject
+
 Contributors:
+
+Alex
+
+Debbie
+
+Glenys
+
+Kari-Ann
