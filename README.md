@@ -12,6 +12,16 @@ Kari-Ann
 
 =======
 
+Things to submit -
+
+1. Software Requirements Specification
+
+2. Design documentation
+
+3. Github logs/codes
+
+=======
+
 Issues to consider -
 
 Issues 01: Ideate for Android application, what type of application, service or product is to be created and more specific functions.
