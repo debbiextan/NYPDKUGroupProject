@@ -1,5 +1,13 @@
 # NYPDKUGroupProject
 
+Project Name: tbd
+
+Project Idea: Shopping application, where users can both buy items as well as sell items.
+
+System Requirement Specifications:
+
+=======
+
 Contributors:
 
 Alex
@@ -47,3 +55,5 @@ Alex's recommendation - Incremental development
 Currently Using Software:
 
 Balsamiq Mock Ups - https://balsamiq.com
+
+Visual Paradigm CE - https://www.visual-paradigm.com/download/community.jsp
